@@ -26,3 +26,5 @@ struct ContentView_Previews: PreviewProvider {
 //版本管理
 
 //添加了复杂功能呢 需要另一个分支
+
+//直接提交到github.com上
